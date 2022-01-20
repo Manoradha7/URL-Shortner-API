@@ -127,7 +127,7 @@ app.post("/users/signup", async (req, res) => {
   <p>Welcome to the world of URL SHORTNER</p>
   <p>Using our services you can Simplify your links, customize &amp; manage them at free of cost</p>
   <a href=${link}>Click the link to complete two step verification</a>
-  <p>Two step verification is mandatory to sIGNin</p>
+  <p>Two step verification is mandatory to Signin</p>
   <p>Regards,</p>
   <p>URL SHORTNER Team</p>`;
 //sent mail for activate the account
